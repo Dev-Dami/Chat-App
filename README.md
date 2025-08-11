@@ -85,5 +85,5 @@ npm run dev
 ---
 
 ## License
-
+MIT
 This project is licensed under the **MIT License**.
